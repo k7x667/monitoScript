@@ -1,6 +1,6 @@
 # monitoScript
 
-Developpement for learn Python.
+Application for learn Python.
 
 - get CPU Usage Percent
 - get RAM Usage Percent
